@@ -23,6 +23,6 @@ print(f"Teceira Nota: {notaTres}")
 print(f"Media: {media}")
 
 if media >= 7:
-    print("\nAprovado")
+    print("\nAprovado.")
 else:
-    print("\nReprovado")
+    print("\nReprovado.")
