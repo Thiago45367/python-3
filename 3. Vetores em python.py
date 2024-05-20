@@ -4,7 +4,7 @@ os.system("cls || clear")
 # Na linguagem de programação C.
 # float notas[5];
 
-# Vetor me Python.
+# Vetor em Python.
 notas = []
 
 for i in range(3):
